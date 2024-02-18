@@ -5,7 +5,7 @@ description: >
   about statistics...
 sitemap: false
 hide_last_modified: true
-permalink: /stat/
+permalink: /RecSys/
 ---
 
 [추천시스템 Intro]{:.heading.flip-title}
