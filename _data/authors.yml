@@ -15,8 +15,8 @@ author1:
     path:            https://via.placeholder.com/128x128
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
-      1x:            /Users/shinsoyeon/Desktop/양식/신소연0.jpg
-      2x:            /Users/shinsoyeon/Desktop/양식/신소연0.jpg
+      1x:            /assets/img/me/신소연01.jpg
+      2x:            /assets/img/me/신소연01.jpg
 
   # Social media icons in sidebar
   # Comment/uncommet to show/hide
