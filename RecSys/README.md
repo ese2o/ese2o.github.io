@@ -2,7 +2,7 @@
 layout: page
 title: RecSys
 description: >
-  about RecSys...
+  about RecSys
 sitemap: false
 hide_last_modified: true
 permalink: /RecSys/

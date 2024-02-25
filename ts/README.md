@@ -2,7 +2,7 @@
 layout: page
 title: Time Series
 description: >
-  about Time Series...
+  about Time Series
 sitemap: false
 hide_last_modified: true
 permalink: /ts/

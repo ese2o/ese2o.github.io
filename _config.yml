@@ -48,8 +48,8 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Computer Vision
-    url:               /cv/
+  - title:             Generative Model
+    url:               /gm/
   - title:             Statistics
     url:               /stat/
   - title:             RecSys
