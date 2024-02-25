@@ -8,6 +8,11 @@ hide_last_modified: true
 permalink: /ts/
 ---
 
-[Times Series 1. Time Series Analysis and Modeling to Forecast: a Survey(1)]{:.heading.flip-title}
+[Time Series Analysis and Modeling to Forecast: a Survey - 1. Intro & Stationarity]{:.heading.flip-title} \
+[Time Series Analysis and Modeling to Forecast: a Survey - 2. Decomposition]{:.heading.flip-title} \
+[Time Series Analysis and Modeling to Forecast: a Survey - 3. Linear Models]{:.heading.flip-title}
 
-[Times Series 1. Time Series Analysis and Modeling to Forecast: a Survey(1)]: /ts/2024-02-22-TS1
+
+[Time Series Analysis and Modeling to Forecast: a Survey - 1. Intro & Stationarity]: /ts/2024-02-22-TS1
+[Time Series Analysis and Modeling to Forecast: a Survey - 2. Decomposition]: /ts/2024-02-24-TS2
+[Time Series Analysis and Modeling to Forecast: a Survey - 3. Linear Models]: /ts/2024-02-25-TS3
