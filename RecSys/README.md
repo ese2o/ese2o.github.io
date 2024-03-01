@@ -5,7 +5,7 @@ description: >
   about RecSys
 sitemap: false
 hide_last_modified: true
-permalink: /RecSys/
+permalink: /recsys/
 ---
 
 [1. Intro]{:.heading.flip-title} \

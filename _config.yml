@@ -53,7 +53,7 @@ menu:
   - title:             Statistics
     url:               /stat/
   - title:             RecSys
-    url:               /RecSys/
+    url:               /recsys/
   - title:             Time Series
     url:               /ts/
 
