@@ -13,7 +13,7 @@ permalink: /recsys/
 [3. Neighborhood-based Collaborative Filtering]{:.heading.flip-title} \
 [4. Model-based Collaborative Filtering]{:.heading.flip-title}
 
-[1. Intro]: /RecSys/2024-02-18-RecSys1
-[2. Content-based Filtering]: /RecSys/2024-02-19-RecSys2
-[3. Neighborhood-based Collaborative Filtering]: /RecSys/2024-02-20-RecSys3
-[4. Model-based Collaborative Filtering]: /RecSys/2024-02-20-RecSys4
+[1. Intro]: /recsys/2024-02-18-RecSys1
+[2. Content-based Filtering]: /recsys/2024-02-19-RecSys2
+[3. Neighborhood-based Collaborative Filtering]: /recsys/2024-02-20-RecSys3
+[4. Model-based Collaborative Filtering]: /recsys/2024-02-20-RecSys4
