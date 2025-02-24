@@ -18,7 +18,9 @@ permalink: /ai/
 [RAG: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks]{:.heading.flip-title} \
 [LLaVA: Visual Instruction Tuning]{:.heading.flip-title} \
 [T-RAG: LESSONS FROM THE LLM TRENCHES]{:.heading.flip-title} \
-[Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity]{:.heading.flip-title}
+[Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity]{:.heading.flip-title} \
+[REALM: Retrieval-Augmented Language Model Pre-Training]{:.heading.flip-title} \
+[Can Large Language Model Agents Simulate Human Trust Behavior?]{:.heading.flip-title}
 
 [DDPM: Denoising Diffusion Probabilistic Models]: /ai/2024-02-23-gm1
 [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation]: /ai/2024-05-07-gm2
@@ -31,3 +33,5 @@ permalink: /ai/
 [LLaVA: Visual Instruction Tuning]: /ai/2025-01-17-llm7
 [T-RAG: LESSONS FROM THE LLM TRENCHES]: /ai/2025-01-24-llm8
 [Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity]: /ai/2025-01-30-llm9
+[REALM: Retrieval-Augmented Language Model Pre-Training]: /ai/2025-02-07-llm10
+[Can Large Language Model Agents Simulate Human Trust Behavior?]: /ai/2025-02-21-llm11
