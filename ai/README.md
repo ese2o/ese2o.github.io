@@ -15,7 +15,10 @@ permalink: /ai/
 [GPT-2: Language Models are Unsupervised Multitask Learners]{:.heading.flip-title} \
 [GPT-3: Language Models are Few-Shot Learners]{:.heading.flip-title} \
 [FLAN: Finetuned Language Models Are Zero-shot Learners]{:.heading.flip-title} \
-[RAG: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks]{:.heading.flip-title}
+[RAG: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks]{:.heading.flip-title} \
+[LLaVA: Visual Instruction Tuning]{:.heading.flip-title} \
+[T-RAG: LESSONS FROM THE LLM TRENCHES]{:.heading.flip-title} \
+[Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity]{:.heading.flip-title}
 
 [DDPM: Denoising Diffusion Probabilistic Models]: /ai/2024-02-23-gm1
 [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation]: /ai/2024-05-07-gm2
@@ -25,3 +28,6 @@ permalink: /ai/
 [GPT-3: Language Models are Few-Shot Learners]: /ai/2025-12-27-llm4
 [FLAN: Finetuned Language Models Are Zero-shot Learners]: /ai/2025-12-27-llm5
 [RAG: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks]: /ai/2025-01-05-llm6
+[LLaVA: Visual Instruction Tuning]: /ai/2025-01-17-llm7
+[T-RAG: LESSONS FROM THE LLM TRENCHES]: /ai/2025-01-24-llm8
+[Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity]: /ai/2025-01-30-llm9
