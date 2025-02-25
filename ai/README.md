@@ -1,37 +1,24 @@
 ---
 layout: page
-title: AI
+title: Time Series
 description: >
-  about ai
+  about Time Series
 sitemap: false
 hide_last_modified: true
 permalink: /ai/
 ---
 
+[1. Time Series Analysis and Modeling to Forecast: a Survey - Intro & Stationarity]{:.heading.flip-title} \
+[2. Time Series Analysis and Modeling to Forecast: a Survey - Decomposition]{:.heading.flip-title} \
+[3. Time Series Analysis and Modeling to Forecast: a Survey - Linear Models]{:.heading.flip-title} \
+[4. Autoregressive Models and Moving Average Models]{:.heading.flip-title} \
 [DDPM: Denoising Diffusion Probabilistic Models]{:.heading.flip-title} \
-[StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation]{:.heading.flip-title} \
-[LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders]{:.heading.flip-title} \
-[GPT-1: Improving Language Understanding by Generative Pre-Training]{:.heading.flip-title} \
-[GPT-2: Language Models are Unsupervised Multitask Learners]{:.heading.flip-title} \
-[GPT-3: Language Models are Few-Shot Learners]{:.heading.flip-title} \
-[FLAN: Finetuned Language Models Are Zero-shot Learners]{:.heading.flip-title} \
-[RAG: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks]{:.heading.flip-title} \
-[LLaVA: Visual Instruction Tuning]{:.heading.flip-title} \
-[T-RAG: LESSONS FROM THE LLM TRENCHES]{:.heading.flip-title} \
-[Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity]{:.heading.flip-title} \
-[REALM: Retrieval-Augmented Language Model Pre-Training]{:.heading.flip-title} \
-[Can Large Language Model Agents Simulate Human Trust Behavior?]{:.heading.flip-title}
+[StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation]{:.heading.flip-title}
 
+
+[1. Time Series Analysis and Modeling to Forecast: a Survey - Intro & Stationarity]: /ai/2024-02-22-TS1
+[2. Time Series Analysis and Modeling to Forecast: a Survey - Decomposition]: /ai/2024-02-24-TS2
+[3. Time Series Analysis and Modeling to Forecast: a Survey - Linear Models]: /ai/2024-02-25-TS3
+[4. Autoregressive Models and Moving Average Models]: /ai/2024-03-06-TS4
 [DDPM: Denoising Diffusion Probabilistic Models]: /ai/2024-02-23-gm1
 [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation]: /ai/2024-05-07-gm2
-[LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders]: /ai/2024-05-16-llm1
-[GPT-1: Improving Language Understanding by Generative Pre-Training]: /ai/2024-05-16-llm2
-[GPT-2: Language Models are Unsupervised Multitask Learners]: /ai/2025-12-24-llm3
-[GPT-3: Language Models are Few-Shot Learners]: /ai/2025-12-27-llm4
-[FLAN: Finetuned Language Models Are Zero-shot Learners]: /ai/2025-12-27-llm5
-[RAG: Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks]: /ai/2025-01-05-llm6
-[LLaVA: Visual Instruction Tuning]: /ai/2025-01-17-llm7
-[T-RAG: LESSONS FROM THE LLM TRENCHES]: /ai/2025-01-24-llm8
-[Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity]: /ai/2025-01-30-llm9
-[REALM: Retrieval-Augmented Language Model Pre-Training]: /ai/2025-02-07-llm10
-[Can Large Language Model Agents Simulate Human Trust Behavior?]: /ai/2025-02-21-llm11
