@@ -52,8 +52,6 @@ menu:
     url:               /llm/
   - title:             Statistics
     url:               /stat/
-  - title:             RecSys
-    url:               /recsys/
   - title:             AI
     url:               /ai/
 
