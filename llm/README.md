@@ -1,8 +1,8 @@
 ---
 layout: page
-title: AI
+title: Large Language Model
 description: >
-  about ai
+  about llm
 sitemap: false
 hide_last_modified: true
 permalink: /llm/

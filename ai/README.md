@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Time Series
+title: Artificial Intelligence
 description: >
-  about Time Series
+  about ai
 sitemap: false
 hide_last_modified: true
 permalink: /ai/
