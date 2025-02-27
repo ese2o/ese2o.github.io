@@ -50,10 +50,12 @@ author:
 menu:
   - title:             LLM
     url:               /llm/
-  - title:             Statistics
-    url:               /stat/
   - title:             AI
     url:               /ai/
+  - title:             Statistics
+    url:               /stat/
+  - title:             trivia
+    url:               /trivia/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
