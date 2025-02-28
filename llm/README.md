@@ -18,7 +18,8 @@ permalink: /llm/
 [T-RAG: LESSONS FROM THE LLM TRENCHES]{:.heading.flip-title} \
 [Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity]{:.heading.flip-title} \
 [REALM: Retrieval-Augmented Language Model Pre-Training]{:.heading.flip-title} \
-[Can Large Language Model Agents Simulate Human Trust Behavior?]{:.heading.flip-title}
+[LLM Agent: Can Large Language Model Agents Simulate Human Trust Behavior?]{:.heading.flip-title} \
+[[Eval] CRAG: Comprehensive RAG Benchmark]{:.heading.flip-title}
 
 
 [LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders]: /llm/2024-05-16-llm1
@@ -31,4 +32,5 @@ permalink: /llm/
 [T-RAG: LESSONS FROM THE LLM TRENCHES]: /llm/2025-01-24-llm8
 [Adaptive-RAG: Learning to Adapt Retrieval-Augmented Large Language Models through Question Complexity]: /llm/2025-01-30-llm9
 [REALM: Retrieval-Augmented Language Model Pre-Training]: /llm/2025-02-07-llm10
-[Can Large Language Model Agents Simulate Human Trust Behavior?]: /llm/2025-02-21-llm11
+[[LLM Agent] Can Large Language Model Agents Simulate Human Trust Behavior?]: /llm/2025-02-21-llm11
+[[Eval] CRAG: Comprehensive RAG Benchmark]: /llm/2025-02-25-llm12
