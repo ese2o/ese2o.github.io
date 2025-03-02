@@ -8,7 +8,7 @@ hide_last_modified: true
 permalink: /trivia/
 ---
 
-[Precision, Recall]{:.heading.flip-title}
+[환경 설정]{:.heading.flip-title}
 
 
-[Precision, Recall]: /trivia/2025-02-27-t1
+[환경 설정]: /trivia/2025-02-27-t1
