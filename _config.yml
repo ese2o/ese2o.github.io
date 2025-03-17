@@ -42,12 +42,14 @@ logo:                  /assets/img/me/logoimage.png
 author:
   # Used by `jekyll-feed`:
   name:                <Soyeon> <Shin>
-  email:               <ssy020810@gmail.com>
+  email:               <shin020810@naver.com>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
+  - title:             about me
+    url:               /me/
   - title:             LLM
     url:               /llm/
   - title:             AI
@@ -81,7 +83,7 @@ paginate_path:         /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-# # # # # # # theme: jekyll-theme-hydejack
+# # # # # # # # theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9
 
 
