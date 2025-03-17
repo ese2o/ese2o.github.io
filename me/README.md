@@ -24,19 +24,19 @@ Large Language Model을 깊이 공부하고 있습니다.
 - [Smoretalk] SPOILOR: Story&Plot Illustrator
 
 ### Experience
-- Exchange student program \
+- **Exchange student program** \
 2024.07 ~ 2024.12 \
 University of North Carolina at Greensboro, Computer Science major
-- Data Science Lab \
+- **Data Science Lab** \
 2022.12 ~ 2023.12
-- Data Science Lab Alumni \
+- **Data Science Lab Alumni** \
 2023.12 ~
-- Minds And Company \
+- **Minds And Compan** \
 2024.12 ~
 AI Engineer Internship
 
 
 ### Education
-- Yonsei University \
+- **Yonsei University, Seoul** \
 2021.03 ~ 2025.08 \
 Quantitative Risk Management Bachelor's degree
