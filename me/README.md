@@ -19,7 +19,6 @@ Large Language Model(LLM)에 깊은 관심을 가지고 연구하며, LLM의 성
 ### Modeling
 - **[Kaggle]** BLIP2: Stable Diffusion
 - YOLO v5m를 활용한 재활용 가능 페트병 분류: 라벨과 유색 여부를 중심으로
-
 ### Industry-Academic Cooperation
 - **[Naver Financial]** TEXT2SQL
 - **[Smoretalk]** SPOILOR: Story&Plot Illustrator
