@@ -32,7 +32,7 @@ University of North Carolina at Greensboro, Computer Science major
 - **Data Science Lab Alumni** \
 2023.12 ~
 - **MINDS AND COMPANY** \
-2024.12 ~
+2024.12 ~ \
 AI Engineer Internship
 
 
