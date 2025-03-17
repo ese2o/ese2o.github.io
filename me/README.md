@@ -25,7 +25,7 @@ Large Language Model을 깊이 공부하고 있습니다.
 
 ### Experience
 - Exchange student program \
-2024.07 ~ 2024.12
+2024.07 ~ 2024.12 \
 University of North Carolina at Greensboro, Computer Science major
 - Data Science Lab \
 2022.12 ~ 2023.12
