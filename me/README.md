@@ -12,8 +12,8 @@ Large Language Model을 깊이 공부하고 있습니다.
 
 ## Projects
 ### EDA
-- 금융데이터 분석: 주식시장의 이례현상 검증
-- 의료데이터 분석: 한국의 정신건강 현황
+- 금융데이터 분석: <주식시장의 이례현상 검증>
+- 의료데이터 분석: <한국의 정신건강 현황>
 
 ### Modeling
 - [Kaggle] BLIP2: Stable Diffusion
