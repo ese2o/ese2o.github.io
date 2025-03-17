@@ -37,6 +37,6 @@ AI Engineer Internship
 
 
 ### Education
-- Yonsei University
-2021.03 ~ 2025.08
+- Yonsei University \
+2021.03 ~ 2025.08 \
 Quantitative Risk Management Bachelor's degree
