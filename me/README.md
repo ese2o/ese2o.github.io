@@ -17,12 +17,12 @@ Large Language Model(LLM)에 깊은 관심을 가지고 연구하며, LLM의 성
 - 의료데이터 분석: 한국의 정신건강 현황
 
 ### Modeling
-- [Kaggle] BLIP2: Stable Diffusion
+- **[Kaggle]** BLIP2: Stable Diffusion
 - YOLO v5m를 활용한 재활용 가능 페트병 분류: 라벨과 유색 여부를 중심으로
 
 ### Industry-Academic Cooperation
-- [Naver Financial] TEXT2SQL
-- [Smoretalk] SPOILOR: Story&Plot Illustrator
+- **[Naver Financial]** TEXT2SQL
+- **[Smoretalk]** SPOILOR: Story&Plot Illustrator
 
 ### Experience
 - **Exchange student program** \
@@ -32,7 +32,7 @@ University of North Carolina at Greensboro, Computer Science major
 2022.12 ~ 2023.12
 - **Data Science Lab Alumni** \
 2023.12 ~
-- **Minds And Compan** \
+- **MINDS AND COMPANY** \
 2024.12 ~
 AI Engineer Internship
 
