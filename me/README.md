@@ -8,8 +8,9 @@ hide_last_modified: true
 permalink: /me/
 ---
 ## 👋 안녕하세요, AI Engineer를 꿈꾸는 신소연입니다.
-Large Language Model(LLM) 및 최신 AI 연구 동향에 관심을 가지고, 프롬프트 엔지니어링을 통한 언어모델의 성능 최적화를 탐구하고 있습니다. 또한 통계학/머신러닝을 기반으로 하는 데이터 분석에도 흥미를 가지고 있으며, 실제 데이터를 진행해왔습니다.
+Large Language Model(LLM) 및 최신 AI 연구 동향에 관심을 가지고, 프롬프트 엔지니어링을 통한 언어모델의 성능 최적화를 탐구하고 있습니다. 또한 통계학/머신러닝을 기반으로 하는 데이터 분석에도 흥미를 가지고 있으며, 실제 데이터를 활용한 프로젝트를 다수 진행해왔습니다.
 
+[Linkedin](www.linkedin.com/in/soyeon-shin-548598352)
 
 ## Projects
 ### EDA
