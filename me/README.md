@@ -52,5 +52,3 @@ Quantitative Risk Management Bachelor's degree
 
 ### Certification
 - Advanced Data Analytics Semi-Professional (2023)
-
-[Linkedin](www.linkedin.com/in/soyeon-shin-548598352)
