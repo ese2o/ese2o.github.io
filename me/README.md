@@ -19,15 +19,15 @@ Statistical data analysis & hypothesis test
 - 의료데이터 분석: 한국의 정신건강 현황
 
 ### Modeling
-- **[Kaggle]** BLIP2: Stable Diffusion
+- **[Kaggle]** BLIP2: Stable Diffusion \
 task: Image to Prompt
-- YOLO v5m를 활용한 재활용 가능 페트병 분류: 라벨과 유색 여부를 중심으로
+- YOLO v5m를 활용한 재활용 가능 페트병 분류: 라벨과 유색 여부를 중심으로 \
 task: Object Detection
 
 ### Industry-Academic Cooperation
-- **[Naver Financial]** TEXT2SQL
+- **[Naver Financial]** TEXT2SQL \
 task: Large Language Model
-- **[Smoretalk]** SPOILOR: Story&Plot Illustrator
+- **[Smoretalk]** SPOILOR: Story&Plot Illustrator \
 task: multimodal, Stable Diffusion
 
 ### Experience
@@ -49,7 +49,7 @@ AI Engineer Internship
 Quantitative Risk Management Bachelor's degree
 
 ### Awards
-- 연세대학교 빅데이터분석 경진대회 최우수상 (2023)
+- 연세대학교 빅데이터분석 경진대회 최우수상 (2023) \
 주최: 연세대학교 통계데이터사이언스학과 BK21 교육연구단
 
 ### Certification
