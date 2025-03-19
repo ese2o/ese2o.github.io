@@ -8,9 +8,9 @@ hide_last_modified: true
 permalink: /me/
 ---
 
-Hello! I am a student at Yonsei University, aspiring to become an AI engineer. My research focuses on optimizing and advancing language models through prompt engineering and In-Context Learning (ICL), with a particular interest in developing conversational AI systems and language agents. \
+Hello! I am a student at Yonsei University, aspiring to become an AI engineer. My research focuses on optimizing and advancing language models through prompt engineering and In-Context Learning (ICL), with a particular interest in developing conversational AI systems and language agents.
 
-I am also passionate about data analysis based on statistics and machine learning, and I have worked on various projects utilizing real-world data. Ultimately, my goal is to develop adaptive language agents that seamlessly integrate into everyday life, enhancing productivity and promoting mental well-being. \
+I am also passionate about data analysis based on statistics and machine learning, and I have worked on various projects utilizing real-world data. Ultimately, my goal is to develop adaptive language agents that seamlessly integrate into everyday life, enhancing productivity and promoting mental well-being.
 
 Above all, I dream of creating AI that is more approachable, empathetic, and truly supportive of people—technology that not only understands but also connects with users in a meaningful way. ☺️
 
