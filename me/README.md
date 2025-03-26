@@ -44,6 +44,8 @@ University of North Carolina at Greensboro, Computer Science major
 - **MINDS AND COMPANY** \
 2024.12 ~ \
 AI Engineer Internship
+- Samsung Fire & Marine Insurance: LLM service project
+- Pediatric Emergency Patient Severity Prediction project
 
 
 ### Education

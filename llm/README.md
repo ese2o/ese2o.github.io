@@ -22,6 +22,7 @@ permalink: /llm/
 [Eval; CRAG: Comprehensive RAG Benchmark]{:.heading.flip-title} \
 [Eval; G-EVAL: NLG Evaluation using GPT-4 with Better Human Alignment]{:.heading.flip-title} \
 [Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes]{:.heading.flip-title}
+[AI Agent; The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery]{:.heading.flip-title}
 
 
 [LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders]: /llm/2024-05-16-llm1
@@ -38,3 +39,4 @@ permalink: /llm/
 [Eval; CRAG: Comprehensive RAG Benchmark]: /llm/2025-02-25-llm12
 [Eval; G-EVAL: NLG Evaluation using GPT-4 with Better Human Alignment]: /llm/2025-02-28-llm13
 [Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes]: /llm/2025-03-07-llm14
+[AI Agent; The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery]: /llm/2025-03-21-llm15
