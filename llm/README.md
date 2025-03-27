@@ -21,7 +21,7 @@ permalink: /llm/
 [LLM Agent; Can Large Language Model Agents Simulate Human Trust Behavior?]{:.heading.flip-title} \
 [Eval; CRAG: Comprehensive RAG Benchmark]{:.heading.flip-title} \
 [Eval; G-EVAL: NLG Evaluation using GPT-4 with Better Human Alignment]{:.heading.flip-title} \
-[Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes]{:.heading.flip-title}
+[Distilling Step-by-Step! Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes]{:.heading.flip-title} \
 [AI Agent; The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery]{:.heading.flip-title}
 
 
