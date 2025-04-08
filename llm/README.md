@@ -25,7 +25,8 @@ permalink: /llm/
 [AI Agent; The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery]{:.heading.flip-title} \
 [MoE; Mixtral of Experts]{:.heading.flip-title} \
 [Crossing the Reward Bridge: Expanding RL with Verifiable Rewards Across Diverse Domains]{:.heading.flip-title} \
-[Magma: A Foundation Model for Multimodal AI Agents]{:.heading.flip-title}
+[Magma: A Foundation Model for Multimodal AI Agents]{:.heading.flip-title} \
+[Inference-Time Scaling for Generalist Reward Modeling]{:.heading.flip-title}
 
 
 [LLM2Vec: Large Language Models Are Secretly Powerful Text Encoders]: /llm/2024-05-16-llm1
@@ -46,3 +47,4 @@ permalink: /llm/
 [MoE; Mixtral of Experts]: /llm/2025-03-21-llm16
 [Crossing the Reward Bridge: Expanding RL with Verifiable Rewards Across Diverse Domains]: /llm/2025-04-02-llm17
 [Magma: A Foundation Model for Multimodal AI Agents]: /llm/2025-04-08-llm18
+[Inference-Time Scaling for Generalist Reward Modeling]: /llm/2025-04-09-llm19
