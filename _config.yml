@@ -305,6 +305,9 @@ collections:
     permalink:         /projects/:path/
     output:            true
 
+  llm:
+    output: true
+    permalink: /llm/:name
 
 # File inclusion/exclusion
 # ----------------------------------------------------------------------------------------
